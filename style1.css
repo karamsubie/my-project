@@ -1,0 +1,61 @@
+table, th , td {
+            border: 3px solid black;
+          }
+
+            body{
+               color:rgb(255, 255, 255);  
+                background-color: rgb(19, 3, 84);
+               margin-left: auto;
+               margin-right: auto;
+              text-align: center; 
+            }
+ 
+            h1{
+             text-align: center; 
+               
+            border: 5px solid rgb(13, 7, 7) ;
+            border-radius: 10px;
+            padding: 20px ;
+            margin: 5px ;
+            color: #000;
+            background-color: aqua;  
+            }
+            *{
+              box-sizing: border-box;
+            }
+
+            table{
+                background-color: aqua;
+                border: thick;
+                color: #000;
+               margin-left: auto;
+                margin-right: auto;
+            }
+            a{
+               color: aqua;
+            }
+            img{
+                margin-left: auto;
+                margin-right: auto;
+                border: 5px solid rgb(255, 255, 255);
+                border-radius: 10px ; 
+                background-color: #fff;
+
+            }
+            .footer{
+  text-align: center;
+}
+
+.social-icons{
+  text-align: center;
+  
+  font-weight: bold;
+  a{ 
+    text-decoration: none;
+    color: blue;
+  }
+}
+.social-icons a:hover{
+  color: rgb(117, 225, 255);
+  transition: 0.5s;
+}
